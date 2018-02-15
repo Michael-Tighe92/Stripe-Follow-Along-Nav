@@ -1,2 +1,3 @@
 # Stripe-Follow-Along-Nav
-Created using Stripe Follow Along Nav (JavaScript30)
+
+- A Javascript project that has a nav wih a drop down menu.
